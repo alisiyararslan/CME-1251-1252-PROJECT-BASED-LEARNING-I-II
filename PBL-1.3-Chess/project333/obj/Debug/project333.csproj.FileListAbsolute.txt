@@ -1,0 +1,7 @@
+C:\Users\Şiyar Arslan\source\repos\project333\project333\bin\Debug\project333.exe.config
+C:\Users\Şiyar Arslan\source\repos\project333\project333\bin\Debug\project333.exe
+C:\Users\Şiyar Arslan\source\repos\project333\project333\bin\Debug\project333.pdb
+C:\Users\Şiyar Arslan\source\repos\project333\project333\obj\Debug\project333.csprojAssemblyReference.cache
+C:\Users\Şiyar Arslan\source\repos\project333\project333\obj\Debug\project333.csproj.CoreCompileInputs.cache
+C:\Users\Şiyar Arslan\source\repos\project333\project333\obj\Debug\project333.exe
+C:\Users\Şiyar Arslan\source\repos\project333\project333\obj\Debug\project333.pdb
